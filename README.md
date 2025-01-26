@@ -18,7 +18,7 @@ The Automation Script utilizes Python modules and libraries to automate diverse 
 
 This script sets up an AI chatbot using the Groq API, providing real-time responses based on user queries. It manages chat logs, interacts with users through a graphical interface, and leverages natural language processing for intelligent conversations.
 
-### 3. Jarvis Assistant GUI Application
+### 3. Smart_Aid Assistant GUI Application
 
 Implemented using PyQt5, this application provides a user-friendly interface for interacting with Jarvis. It includes components like chat history display, initial screens, and navigation bars for seamless user experience and interaction with backend services.
 
@@ -48,9 +48,11 @@ Each script is configured with environment variables for API keys, application s
 
 ## Conclusion
 
-The Jarvis project exemplifies a versatile approach to automation and assistant systems, integrating advanced AI capabilities, natural language processing, and multimedia interaction. It enhances user productivity, information access, and engagement through intuitive interfaces and intelligent automation.
+The Smart_aid project exemplifies a versatile approach to automation and assistant systems, integrating advanced AI capabilities, natural language processing, and multimedia interaction. It enhances user productivity, information access, and engagement through intuitive interfaces and intelligent automation.
+## UI
+<img src="Data/Smart_aid.png" alt="UI">
 
 ## Contact Information
 
 For any queries or further information, please contact us via WhatsApp:
-Contact number: +919821697044
+Contact number: +918930724269
