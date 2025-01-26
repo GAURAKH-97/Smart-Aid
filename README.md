@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project integrates various Python scripts and applications to create a comprehensive automation and assistant system named Jarvis. Jarvis encompasses several functionalities, including automation tasks, AI-based chatbot capabilities, real-time information retrieval, image generation, speech recognition with translation, and text-to-speech conversion for interactive feedback.
+This project integrates various Python scripts and applications to create a comprehensive automation and assistant system named Smart aid. Smart aid encompasses several functionalities, including automation tasks, AI-based chatbot capabilities, real-time information retrieval, image generation, speech recognition with translation, and text-to-speech conversion for interactive feedback.
 
 ## Components
 
